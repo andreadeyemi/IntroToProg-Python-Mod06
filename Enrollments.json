@@ -1,8 +1,1 @@
-[
-  { "FirstName": "Andre", "LastName": "Adeyemi", "CourseName": "Python 100" },
-  {
-    "FirstName": "Tyrese",
-    "LastName": "Haliburton",
-    "CourseName": "Python 100"
-  }
-]
+[{"FirstName": "Andre", "LastName": "Adeyemi", "CourseName": "Python 100"}, {"FirstName": "Tyrese", "LastName": "Haliburton", "CourseName": "Python 100"}]

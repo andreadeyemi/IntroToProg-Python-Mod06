@@ -1,3 +1,12 @@
+
+# ------------------------------------------------------------------------------------------ #
+# Title: Assignment06.py
+# Desc: This assignment demonstrates using functions
+# with structured error handling
+# Change Log: (Who, When, What)
+# Andre Adeyemi,2/19/2024,Created Script
+# ------------------------------------------------------------------------------------------ #
+
 import json
 
 # --- Constants: ---
